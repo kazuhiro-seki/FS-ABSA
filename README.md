@@ -1,14 +1,8 @@
-# FS-ABSA: A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis
+# FS-ABSA (copy)
 
-<i>Zengzhi Wang, Qiming Xie, Rui Xia</i>
-
-<i>Nanjing University of Science and Technology, China</i>
-
-
+## This repo is a copy of the original FS-ABSA repo.
 
 📄 [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) &nbsp; ☕ [[Homepage on PaperWithCode]](https://paperswithcode.com/paper/a-simple-yet-effective-framework-for-few-shot) &nbsp;  🍟 [[Paper Summary in Kudos]](https://www.growkudos.com/publications/10.1145%25252F3539618.3591940/reader) &nbsp; 📃 [[Poster]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-poster.pdf) &nbsp; 🎥 [[5 Mins Presentation Video]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-5min-video.mp4)
-
-	
 
 ## Quick links
 
