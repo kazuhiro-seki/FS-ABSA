@@ -1,9 +1,11 @@
-pip==24.0
 pytorch-lightning==1.8.0.post1
-torch==2.6.0
-transformers==4.41.0
-tqdm==4.67
+torch==1.13.0
+transformers==4.24.0
+tqdm==4.64.1
 #sentencepiece==0.1.96
-setuptools==60.0.0
-jedi==0.16
+sentencepiece==0.2.0
+setuptools==59.5.0
+wandb
+fuzzywuzzy
+nltk
 numpy==1.26.4
